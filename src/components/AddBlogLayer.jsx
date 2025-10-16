@@ -27,7 +27,7 @@ const AddBlogLayer = () => {
       languages: [
         "javascript",
         "ruby",
-        "python",
+        "pythonn",
         "java",
         "csharp",
         "cpp",
