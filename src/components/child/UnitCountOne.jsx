@@ -9,7 +9,7 @@ const UnitCountOne = () => {
                         <div className="d-flex flex-wrap align-items-center justify-content-between gap-3">
                             <div>
                                 <p className="fw-medium text-primary-light mb-1">Total Users</p>
-                                <h6 className="mb-0">20,001</h6>
+                                <h6 className="mb-0">20,04</h6>
                             </div>
                             <div className="w-50-px h-50-px bg-cyan rounded-circle d-flex justify-content-center align-items-center">
                                 <Icon
